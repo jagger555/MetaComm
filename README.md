@@ -103,4 +103,4 @@ python main_DPPO.py --test --init_checkpoint <OUTPUT_DIR>  # <OUTPUT_DIR> contai
 ```
 测试结果默认保存在`<OUTPUT_DIR>/test`路径下
 
-（训练和测试的评测是同一套代码，所以直接用train_output.txt填实验即可）
+
